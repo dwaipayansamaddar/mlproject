@@ -1,0 +1,1 @@
+# this train pipeline will be used to call each of the items in components.. like data ingestion.. data transformation.. and model trainer 
